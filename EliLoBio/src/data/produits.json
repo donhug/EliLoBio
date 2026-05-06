@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Tomates",
+    "category":"legumes",
+    "price":5,
+    "imageSrc":null
+  },
+
+  {
+    "id": 2,
+    "name": "Fraises",
+    "category":"fruits",
+    "price":5,
+    "imageSrc":null
+  },
+
+  {
+    "id": 3,
+    "name": "Confiture de fraise",
+    "category":"transformation",
+    "price":5,
+    "imageSrc":null
+  },
+
+  {
+    "id": 4,
+    "name": "Pommes de terre",
+    "category":"legumes",
+    "price":5,
+    "imageSrc":null
+  },
+
+  {
+    "id": 5,
+    "name": "Poireaux",
+    "category":"legumes",
+    "price":5,
+    "imageSrc":null
+  }
+]
